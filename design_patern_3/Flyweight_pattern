@@ -1,0 +1,3 @@
+Le modèle Flyweight est principalement utilisé pour réduire le nombre d'objets créés et pour réduire l'empreinte mémoire et augmenter les performances. Ce type de modèle de conception est structuré car ce modèle fournit des moyens de réduire le nombre d'objets, améliorant ainsi la structure d'objet de l'application.
+
+Le modèle de poids mouche essaie de réutiliser des objets de type similaire existants en les stockant et crée un nouvel objet quand aucun objet correspondant n'est trouvé. Nous allons démontrer ce modèle en dessinant 20 cercles d'endroits différents mais nous ne créerons que 5 objets. Seules 5 couleurs sont disponibles, de sorte que la propriété de couleur est utilisée pour vérifier les objets Circle déjà existants.
