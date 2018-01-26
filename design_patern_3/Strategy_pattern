@@ -1,0 +1,3 @@
+Dans le modèle Stratégie, un comportement de classe ou son algorithme peut être modifié au moment de l'exécution. Ce type de modèle de conception est soumis à un modèle de comportement.
+
+Dans le pattern Stratégie, nous créons des objets qui représentent différentes stratégies et un objet contexte dont le comportement varie selon son objet stratégique. L'objet de stratégie modifie l'algorithme d'exécution de l'objet de contexte.
